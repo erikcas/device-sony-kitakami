@@ -62,6 +62,12 @@ media.aac_51_output_enabled=true
 # System prop for NFC DT
 ro.nfc.port=I2C
 
+# NFC
+ro.nfc.on.default=true
+ro.nfc.se.sim.enable=true
+ro.nfc.se.smx.enable=false
+ro.nfc.icon.enable=false
+
 # Property to enable user to access Google WFD settings.
 persist.debug.wfd.enable=1
 
