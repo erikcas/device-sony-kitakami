@@ -11,6 +11,7 @@
 /dev/smd6                 0660   system     system
 /dev/smd7                 0660   bluetooth  net_bt_stack
 /dev/smd11                0660   radio      radio
+/dev/smem_log             0666   root       root
 /dev/radio0               0640   system     system
 /dev/ccid_bulk            0660   system     system
 /dev/ccid_ctrl            0660   system     system
